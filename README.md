@@ -1,6 +1,6 @@
-# 👨‍💻 THẠCH HIỀN | Software Developer
+# 👨‍💻 THẠCH HIỂN | Software Developer
 
-### 📍 Ho Chi Minh City, Vietnam | 🎓 GTVT College Alumnus
+### 📍 Ho Chi Minh City, Vietnam | 🎓 Ho Chi Minh City College of Transport
 **Fullstack Developer** với tư duy thiết kế sáng tạo. Có khả năng xây dựng các ứng dụng Web mạnh mẽ từ Backend (PHP, .NET, Java) đến Frontend (ReactJS) và thiết kế giao diện (UI/UX).
 
 ---
@@ -27,10 +27,16 @@
 
 ---
 
+## 🚀 Dự án tiêu biểu
+- 🌐 **[Project Name 1]**: Mô tả ngắn về dự án (Ví dụ: Hệ thống quản lý bán hàng sử dụng ASP.NET Core).
+- 📱 **[Project Name 2]**: Mô tả ngắn về dự án (Ví dụ: Landing page cá nhân sử dụng ReactJS và thiết kế bằng AI).
+
+---
+
 ## 📈 Hoạt động trên GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thachhien-Github&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Thach Hien's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thachhien-Github&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thachhien-Github&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Thach Hien's Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thachhien-Github&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="170px" />
 </p>
 
 ## 🏆 Thành tựu & Danh hiệu
