@@ -1,4 +1,4 @@
-# 👨‍💻 THẠCH HIỂN | Software Developer
+# 👨‍💻 THẠCH HIỀN | Software Developer
 
 ### 📍 Ho Chi Minh City, Vietnam | 🎓 Ho Chi Minh City College of Transport
 **Fullstack Developer** với tư duy thiết kế sáng tạo. Có khả năng xây dựng các ứng dụng Web mạnh mẽ từ Backend (PHP, .NET, Java) đến Frontend (ReactJS) và thiết kế giao diện (UI/UX).
